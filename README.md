@@ -1,16 +1,4 @@
 # currency_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/118456066/233929939-e3cb92cd-1112-4c2e-a6b0-97bc3b64d167.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/233929962-c66a2e50-6d16-4044-a38f-faeac71e3446.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/233929979-9857bcc3-f926-4046-a4c5-f7bed3cf5661.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/233930029-2c498b87-a29a-44b6-b71a-245c2ed54e9b.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/233930042-c76ac0ce-c7f8-44eb-bbf0-3a958aadc665.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/233930060-4e5e0dfc-c73c-4765-9970-f446bc5e4a07.jpg" width="200px">
